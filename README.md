@@ -34,3 +34,4 @@ Feel free to explore the React Learning Platform and utilize its features for ed
 Contributing
 Contributions to the React Learning Platform are highly appreciated! If you have ideas for improving existing features, adding new components, fixing bugs, or enhancing the user experience, please consider contributing. You can contribute by opening an issue to report problems or suggest enhancements, or by submitting a pull request with your proposed changes.
 
+# Hyggex-Project
